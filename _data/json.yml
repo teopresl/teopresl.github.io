@@ -1,0 +1,37 @@
+- key: Name
+  value: Teodor Prešl
+
+- key: Nickname
+  value: KnifeLoverFlyingButter
+
+- key: Description
+  value:
+    - Czech based
+    - Photographer
+    - Maker
+    - CTU FEE / ČVUT FEL student
+    -
+  typed: true
+
+- key: Sublinks
+  value: Photography
+  url: /photography
+
+- key: E-mail
+  value: kontakt.presl@seznam.cz
+  url: "mailto:kontakt.presl@seznam.cz"
+
+- key: Find me on
+  value:
+    - value: Instagram personal
+      url: https://www.instagram.com/knifeloverflyingbutter/
+    - value: Instagram photography
+      url: https://www.instagram.com/teopresl/
+    - value: GitHub
+      url: https://github.com/teopresl
+    - value: Zonerama
+      url: https://eu.zonerama.com/TPsgallery
+    - value: Printables
+      url: https://www.printables.com/@KnifeLover_2335150
+    - value: Discord
+      url: https://discord.com/users/293428596243169290

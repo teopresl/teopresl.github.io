@@ -1,0 +1,27 @@
+title: Teodor Prešl
+description: Teodor Prešl's simple webpage
+baseurl: 
+url: http://teopresl.github.io
+
+remote_theme: hacked-jekyll
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-remote-theme
+
+sass:
+  sourcemap: never
+
+color_bg: gray-9
+color_punct: orange-5
+color_key: orange-5
+color_value: orange-5
+color_hover: cyan-6
+lowercase: false
