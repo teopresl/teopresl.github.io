@@ -43,8 +43,8 @@ permalink: /photography/
       <p><span style="font-style: normal; font-weight: 800;"> Fotografie č. 3 </span> <br> Fujifilm X-T30, Nikkor 35-70mm F/3.5 AI </p>
     </div>
     <div class="gallery-image">
-      <a href="/assets/foto10.jpg" target="_blank" title="Klikni pro zvětšení">
-      <img src="/assets/foto10.jpg" alt="Foto 1">
+      <a href="/assets/foto8.jpg" target="_blank" title="Klikni pro zvětšení">
+      <img src="/assets/foto8.jpg" alt="Foto 1">
         </a>
     </div>
   </div>
