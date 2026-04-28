@@ -13,6 +13,42 @@ permalink: /photography/
 </div>
 
 <div class="custom-gallery">
+
+<div class="gallery-row">
+    <div class="gallery-text-left">
+      <p><span style="font-style: normal; font-weight: 800;"> Fotografie č. 1 </span> <br> Nikon F2, Nikkor 35-70mm F/3.5 AI, Kodak P3200 </p>
+    </div>
+    <div class="gallery-image">
+      <a href="/assets/foto7.jpg" target="_blank" title="Klikni pro zvětšení">
+      <img src="/assets/foto7.jpg" alt="Foto 1">
+        </a>
+    </div>
+  </div>
+
+
+<div class="gallery-row">
+    <div class="gallery-image">
+      <a href="/assets/foto6.jpg" target="_blank" title="Klikni pro zvětšení">
+      <img src="/assets/foto6.jpg" alt="Foto 1">
+        </a>
+    </div>
+    <div class="gallery-text-right">
+      <p><span style="font-style: normal; font-weight: 800;"> Fotografie č. 2 </span> <br> Fujifilm X-T30, 7Artisans 50mm F/0.95 </p>
+    </div>
+  </div>
+
+
+  <div class="gallery-row">
+    <div class="gallery-text-left">
+      <p><span style="font-style: normal; font-weight: 800;"> Fotografie č. 3 </span> <br> Fujifilm X-T30, Nikkor 35-70mm F/3.5 AI </p>
+    </div>
+    <div class="gallery-image">
+      <a href="/assets/foto10.jpg" target="_blank" title="Klikni pro zvětšení">
+      <img src="/assets/foto10.jpg" alt="Foto 1">
+        </a>
+    </div>
+  </div>
+  
   
   <div class="gallery-row">
     <div class="gallery-image">
@@ -21,7 +57,7 @@ permalink: /photography/
         </a>
     </div>
     <div class="gallery-text-right">
-      <p><span style="font-style: normal; font-weight: 800;"> Fotografie č. 1 </span> <br> Fujifilm X-T30, 7Artisans 50mm F/0.95 </p>
+      <p><span style="font-style: normal; font-weight: 800;"> Fotografie č. 4 </span> <br> Fujifilm X-T30, 7Artisans 50mm F/0.95 </p>
     </div>
   </div>
 
@@ -43,7 +79,7 @@ permalink: /photography/
         </a>
     </div>
     <div class="gallery-text-right">
-      <p><span style="font-style: normal; font-weight: 800;"> Fotografie č.3 </span> <br> Nikon F2, Nikkor 35-70mm F/3.5 AI, Expired Kodak ColorPlus 200 </p>
+      <p><span style="font-style: normal; font-weight: 800;"> Fotografie č.6 </span> <br> Nikon F2, Nikkor 35-70mm F/3.5 AI, Expired Kodak ColorPlus 200 </p>
     </div>
   </div>
 
@@ -64,7 +100,7 @@ permalink: /photography/
         </a>
     </div>
     <div class="gallery-text-right">
-      <p><span style="font-style: normal; font-weight: 800;"> Fotografie č. 5 </span> <br> Fujifilm X-T30, 7Artisans 50mm F/0.95 </p>
+      <p><span style="font-style: normal; font-weight: 800;"> Fotografie č. 8 </span> <br> Fujifilm X-T30, 7Artisans 50mm F/0.95 </p>
     </div>
 
   <div style="height: 30px; width: 100%;"></div>
